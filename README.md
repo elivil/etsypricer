@@ -9,3 +9,4 @@ Etsy is an online marketplace that helps makers sell handmade items. It has been
 
 When a new seller adds a listing to Etsy, they are prompted to enter the price:
 ![Enter price prompt](imgs/enterprice.png)
+This prompt provides some advice for new sellers, namely to factor in the cost of the materials and labor, and suggests they do market research. This can be a tall order for hobbyists who are just starting out on Etsy. Furthermore, makers often underestimate the value of their handmade items. One can find many Etsy sellers frustrated by the lack of good pricing advice. Often an Etsy seller would price their item by just looking at a few similar items and averaging their price. My web application provides a quantitative estimate for the price of an item as well as gives a recommendation for improving item descriptions.
