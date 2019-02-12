@@ -54,7 +54,15 @@ The images were transformed into feature vectors (1280 components each) by using
 
 The performance of the improved model on the test set was measured using MAPE and it was found to outperform the baseline model by 73%. Furthermore, using the ten most similar items determined per above procedure, the application finds words that are used in the descriptions of the items that are priced higher than the predicted price and suggests to the user to use these words to achieve higher pricing.
 
+## Web application
+EtsyPricer is available as a web application hosted on http://etsypricer.host.
 
+### Screenshot of user entry
+![App entry](imgs/appentry.png)
 
+### Screenshot of app output
+![App output](imgs/appoutput.png)
+
+Using the output page, Etsy sellers can work the recommended words into their description and craft their way to the right price!
 
 
