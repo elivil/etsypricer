@@ -66,7 +66,7 @@ EtsyPricer is available as a web application hosted on http://etsypricer.host.
 Using the output page, Etsy sellers can work the recommended words into their description and craft their way to the right price!
 
 - - - -
-[1] Levy, Omer and Yoav Goldberg. “Neural Word Embedding as Implicit Matrix Factorization.” NIPS (2014).
+[1] Levy, Omer and Yoav Goldberg. “Neural Word Embedding as Implicit Matrix Factorization.” NIPS (2014): 2177-2185.
 
 [2] Sandler, Mark B. et al. “MobileNetV2: Inverted Residuals and Linear Bottlenecks.” 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (2018): 4510-4520.
 
